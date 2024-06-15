@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kaiyuan Tan's Personal Website</title>
+    <style>
+        body { font-family: Arial, sans-serif; line-height: 1.6; margin: 0; padding: 0; }
+        .container { width: 80%; margin: auto; overflow: hidden; }
+        header { background: #333; color: #fff; padding-top: 30px; min-height: 70px; border-bottom: #0779e4 3px solid; }
+        header a { color: #fff; text-decoration: none; text-transform: uppercase; font-size: 16px; }
+        ul { padding: 0; list-style: none; }
+        .main-content { padding: 20px; }
+        .profile-pic { max-width: 200px; border-radius: 50%; }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Kaiyuan Tan</h1>
+        </div>
+    </header>
+    <div class="container main-content">
+        <img src="file-x0v2npGcmEQ7T8UZ8LMouq6T" alt="Kaiyuan Tan's Profile Picture" class="profile-pic">
+        <h2>About Me</h2>
+        <p>I am Kaiyuan Tan, a dedicated student currently pursuing my 2A in Mathematics and Financial Risk Analysis at the University of Waterloo. With a strong foundation in financial accounting and proficiency in Microsoft Excel, I have honed my skills in managing large datasets and analyzing market conditions. I am fluent in both Mandarin and English, enabling me to facilitate cross-cultural communication effectively.</p>
+        
+        <h2>Education</h2>
+        <p><strong>University of Waterloo - Waterloo, Ontario</strong><br>2A Mathematics/Financial Risk Analysis<br>University of Waterloo President’s Scholarship<br>Mathematics Teaching Assistant</p>
+
+        <h2>Skills</h2>
+        <ul>
+            <li>Proficient in financial accounting, including the preparation of balance sheets, income statements, and cash flow statements.</li>
+            <li>Advanced user of Microsoft Excel and pivot tables for managing large datasets.</li>
+            <li>Strong knowledge in stock investment, with experience in writing investment reports and analyzing market conditions.</li>
+            <li>Excellent time management and pressure handling abilities.</li>
+            <li>Strong team collaboration skills, developed through various roles including assistant coach and full-time coach.</li>
+        </ul>
+
+        <h2>Experience</h2>
+        <h3>Full-Time Basketball Coach</h3>
+        <p><strong>Organization:</strong> IBSA Basketball, Oakville<br><strong>Duration:</strong> June 2022 - September 2022<br><strong>Responsibilities:</strong> Conducted skill development courses for middle school students, coached 5-on-5 and 3-on-3 games, and fostered team spirit and collaboration among students and coaches.</p>
+
+        <h3>Full-Time English Teacher</h3>
+        <p><strong>Organization:</strong> 万⽲ International Education, Shenyang<br><strong>Duration:</strong> July 2023 - September 2023<br><strong>Responsibilities:</strong> Assisted students in preparing for IELTS exams, practiced listening and speaking sections with students, and improved communication skills.</p>
+
+        <h2>Extracurricular Activities</h2>
+        <ul>
+            <li>Thomas A. Blakelock High School Orienteering Team (2021-2022)</li>
+            <li>Thomas A. Blakelock High School Senior Boys Basketball Team (2022-2023)</li>
+            <li>Sulphur Springs Trail Race 2023 - 100-Mile Pacer</li>
+            <li>University of Waterloo Basketball Intramural Team Captain</li>
+        </ul>
+
+        <h2>Contact Information</h2>
+        <p><strong>Email:</strong> k22tan@uwaterloo.ca<br><strong>Phone:</strong> 289-400-5594</p>
+
+        <h2>Links</h2>
+        <ul>
+            <li><a href="http://www.silonggroup.com/">SiLong International Education</a></li>
+            <li><a href="https://www.ibsabasketball.com/">IBSA Basketball</a></li>
+            <li><a href="https://tab.hdsb.ca/students/athletics">Thomas A. Blakelock High School Athletics</a></li>
+            <li><a href="https://raceroster.com/events/2023/60629/sulphur-springs-trail-race-2023">Sulphur Springs Trail Race 2023</a></li>
+            <li><a href="https://athletics.uwaterloo.ca/sports/2022/4/27/intramurals.aspx">University of Waterloo Intramurals</a></li>
+        </ul>
+    </div>
+</body>
+</html>
